@@ -11,4 +11,5 @@
 - Vantage: the xmpp server designed to work with the backend
 - Titanium: the matchmaker for matchmaking ofc.
 
-
+### Really Important:
+- If you want to use this make sure to fix the cloudstorage exploit.
