@@ -1,0 +1,76 @@
+{
+  "id": "drico25565",
+  "created": "0000-00-00T00:00:00.000Z",
+  "data": {
+    "secondary": {
+      "emotes": [
+        {
+          "id": "EID_Bean_Wave",
+          "name": "Friendly Wave",
+          "rarity": "Common",
+          "set": null
+        },
+        {
+          "id": "EID_Twist",
+          "name": "Twist",
+          "rarity": "Rare",
+          "set": null
+        }
+      ],
+      "gliders": [
+        {
+          "id": "Glider_ID_010_Storm",
+          "name": "Cloud Strike",
+          "rarity": "Epic",
+          "set": null
+        }
+      ],
+      "pickaxes": [
+        {
+          "id": "Pickaxe_Flamingo",
+          "name": "Pink Flamingo",
+          "rarity": "Epic",
+          "set": null
+        },
+        {
+          "id": "Pickaxe_ID_035_Prismatic",
+          "name": "Spectral Axe",
+          "rarity": "Rare",
+          "set": null
+        }
+      ],
+      "skins": [
+        {
+          "id": "CID_027_Athena_Commando_F",
+          "name": "Survival Specialist",
+          "rarity": "Rare",
+          "set": null
+        },
+        {
+          "id": "CID_066_Athena_Commando_F_SkiGirl_GER",
+          "name": "MOGUL MASTER (GER)",
+          "rarity": "Epic",
+          "set": null
+        },
+        {
+          "id": "CID_030_Athena_Commando_M_Halloween",
+          "name": "Skull Trooper",
+          "rarity": "Epic",
+          "set": null
+        },
+        {
+          "id": "CID_048_Athena_Commando_F_HolidayGingerbread",
+          "name": "Ginger Gunner",
+          "rarity": "Epic",
+          "set": null
+        },
+        {
+          "id": "CID_079_Athena_Commando_F_Camo",
+          "name": "Tower Recon Specialist",
+          "rarity": "Common",
+          "set": null
+        }
+      ]
+    }
+  }
+}
